@@ -1,6 +1,6 @@
 {
   "name": "@ivy-lj/business",
-  "version": "3.1.9",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "description": "一些业务的总结模块！",
@@ -20,7 +20,6 @@
     "tslib": ">=1.12"
   },
   "devDependencies": {
-
     "@types/cookie": "^0.3.3",
     "@types/jsonp": "^0.2.0",
     "@types/node": "^13.13.4",
