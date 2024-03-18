@@ -1,0 +1,30 @@
+{
+  "name": "@ivy-lj/business",
+  "version": "3.1.9",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "description": "一些业务的总结模块！",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@ivy-lj/config": "^1.0.2-alpha.0",
+    "cookie": "^0.4.0",
+    "jsonp": "*"
+  },
+  "peerDependencies": {
+    "tslib": ">=1.12"
+  },
+  "devDependencies": {
+
+    "@types/cookie": "^0.3.3",
+    "@types/jsonp": "^0.2.0",
+    "@types/node": "^13.13.4",
+    "typescript": "^3.8.3"
+  },
+  "_lm": 3
+}

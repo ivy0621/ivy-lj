@@ -35,7 +35,7 @@ build().then(() => {
 async function build() {
   if (!existsSync(packagesPath)) return;
   await runEslint();
-  const packages = ['config'];
+  const packages = ['config', 'business'];
   console.log(`start build at ${chalk.cyan(new Date())}`);
   for (let i = 0; i < packages.length; i++) {
     // eslint-disable-next-line no-await-in-loop
