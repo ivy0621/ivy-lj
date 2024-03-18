@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "description": "一些业务的总结模块！",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.json"
   },
@@ -25,5 +25,6 @@
     "@types/node": "^13.13.4",
     "typescript": "^3.8.3"
   },
-  "_lm": 3
+  "_lm": 3,
+  "gitHead": "cd699eba3a55fc8a835802eba5bc2860b25a8db8"
 }
