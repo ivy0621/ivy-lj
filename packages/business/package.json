@@ -25,6 +25,9 @@
     "@types/node": "^13.13.4",
     "typescript": "^3.8.3"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "_lm": 3,
-  "gitHead": "cd699eba3a55fc8a835802eba5bc2860b25a8db8"
+  "gitHead": "c2c8fcf328b777174ef9a31002640ce2a30eac34"
 }
