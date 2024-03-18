@@ -1,0 +1,29 @@
+{
+  "name": "@ivy/config",
+  "version": "2.0.1",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "files": [
+    "dist",
+    "global.d.ts"
+  ],
+  "dependencies": {
+    "global": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "tslib": ">=1.12"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "_lm": 3,
+  "gitHead": "ebb2071fcb16a46300d7ead7ccd8ef9506139695"
+}

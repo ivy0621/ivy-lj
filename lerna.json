@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "npmClient": "yarn",
+  "ignoreChanges": [
+    "**/__test__/**"
+  ],
+  "command": {
+    "publish": {
+      "registry": "https://registry.npmjs.org"
+    }
+  }
+}

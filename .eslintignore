@@ -1,0 +1,5 @@
+node_modules
+dist
+test
+example
+packages/message/RongIMLib-2.3.2.d.ts
