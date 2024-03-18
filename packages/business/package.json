@@ -1,6 +1,6 @@
 {
   "name": "@ivy-lj/business",
-  "version": "1.0.2-alpha.0",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "description": "一些业务的总结模块！",
