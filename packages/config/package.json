@@ -1,6 +1,6 @@
 {
   "name": "@ivy-lj/config",
-  "version": "1.0.1",
+  "version": "1.0.2-alpha.0",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "license": "MIT",
